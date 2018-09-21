@@ -1,0 +1,36 @@
+_repo: Vie-de-Henri-Brulard-tome-2-of-2_53779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+  editor:
+    agent_name: Debraye, Henry
+    birthdate: 1878
+    deathdate: 1948
+    gutenberg_agent_id: '48388'
+    url: http://www.gutenberg.org/2009/agents/48388
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53779'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, French -- 19th century -- Biography'
+- !lcsh 'Stendhal, 1783-1842'
+- !lcc 'PQ'
+- GITenberg
+title: Vie de Henri Brulard, tome 2 (of 2)
+url: http://www.gutenberg.org/ebooks/53779
